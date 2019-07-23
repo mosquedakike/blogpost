@@ -2,7 +2,7 @@ body{
     font-family: 'Open Sans';
     padding: 0px;
     margin: 0px;
-    background-color: ##fafafa;
+    background-color: #E5E8E8;
     color: white;
     text-align: center;
 }
@@ -16,9 +16,11 @@ h1{
 
 
 .content{  
+    margin: 15px;
     background-color: white;
     color: black;
     font-size: 25px;
+    border: solid;
 }
 
 footer{
