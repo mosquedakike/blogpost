@@ -2,7 +2,7 @@ body{
     font-family: 'Open Sans';
     padding: 0px;
     margin: 0px;
-    background-color: #797E76;
+    background-color: ##fafafa;
     color: white;
     text-align: center;
 }
@@ -14,15 +14,19 @@ h1{
     color: #32BEFF;
 }
 
-h2{
-    padding: 50px;
-}
 
-p{  
-    border: solid;
-    padding: 80px;
+.content{  
     background-color: white;
     color: black;
     font-size: 25px;
 }
 
+footer{
+    margin: 0px;
+    width: 100%;
+    text-align: right;
+    background-color: black;
+    color: #32BEFF;
+    position: fixed;
+    bottom: 0;
+}
