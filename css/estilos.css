@@ -2,7 +2,8 @@ body{
     font-family: 'Open Sans';
     padding: 0px;
     margin: 0px;
-    background-color: #E5E8E8;
+    background-color: #797E76;
+    color: white;
     text-align: center;
 }
 
@@ -13,21 +14,16 @@ h1{
     color: #32BEFF;
 }
 
+h2{
+    padding: 50px;
+}
 
-.content{  
-    margin: 15px;
+p{  
+    border: solid;
+    padding: 80px;
     background-color: white;
     color: black;
     font-size: 25px;
-    border: solid;
 }
 
-footer{
-    margin: 0px;
-    width: 100%;
-    text-align: right;
-    background-color: black;
-    color: #32BEFF;
-    position: fixed;
-    bottom: 0;
-} 
+ 
