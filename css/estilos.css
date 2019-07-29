@@ -3,7 +3,7 @@ body{
     padding: 0px;
     margin: 0px;
     background-color: rgba(218, 218, 218, 0.918);
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -11,14 +11,6 @@ body{
 
 h2{
     padding: 50px;
-}
-
-p{  
-    border: solid;
-    padding: 80px;
-    background-color: white;
-    color: black;
-    font-size: 25px;
 }
 
  
